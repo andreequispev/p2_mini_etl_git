@@ -1,0 +1,15 @@
+# Entornos
+.env
+.venv/
+__pycache__/
+
+# Conda
+*.conda
+*.lock
+
+# VS Code
+.vscode/
+
+# Sistema
+.DS_Store
+Thumbs.db
